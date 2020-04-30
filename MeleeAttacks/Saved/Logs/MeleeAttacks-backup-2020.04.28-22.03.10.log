@@ -1,0 +1,1317 @@
+﻿Log file open, 04/28/20 17:37:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MeleeAttacks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.079530
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: G:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.28-21.37.17:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.28-21.37.17:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.28-21.37.17:405][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.28-21.37.17:407][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:407][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-21.37.17:407][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-21.37.17:407][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:407][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.28-21.37.17:407][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-21.37.17:408][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-21.37.17:409][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-21.37.17:409][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-21.37.17:409][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.28-21.37.17:411][  0]LogHAL: Display: Platform has ~ 16 GB [17046343680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.28-21.37.17:411][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.28-21.37.17:411][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-21.37.17:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.28-21.37.17:412][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.28-21.37.17:413][  0]LogInit: Computer: DESKTOP-5VPBJCF
+[2020.04.28-21.37.17:413][  0]LogInit: User: mason
+[2020.04.28-21.37.17:413][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.28-21.37.17:413][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.28-21.37.17:413][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.28-21.37.17:413][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.28-21.37.17:413][  0]LogMemory: Process Physical Memory: 99.90 MB used, 99.90 MB peak
+[2020.04.28-21.37.17:413][  0]LogMemory: Process Virtual Memory: 87.82 MB used, 87.82 MB peak
+[2020.04.28-21.37.17:413][  0]LogMemory: Physical Memory: 6696.70 MB used,  9559.96 MB free, 16256.66 MB total
+[2020.04.28-21.37.17:413][  0]LogMemory: Virtual Memory: 4639.61 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.04.28-21.37.17:415][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.28-21.37.17:435][  0]LogInit: Using OS detected language (en-US).
+[2020.04.28-21.37.17:435][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.28-21.37.17:435][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.28-21.37.17:626][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.28-21.37.17:661][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.28-21.37.17:661][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.28-21.37.17:862][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.28-21.37.17:862][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.28-21.37.17:904][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.04.28-21.37.17:904][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.28-21.37.17:906][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.28-21.37.17:906][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.28-21.37.17:906][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.28-21.37.17:912][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.28-21.37.17:912][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.28-21.37.17:912][  0]LogWindows: EnumDisplayDevices:
+[2020.04.28-21.37.17:912][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.04.28-21.37.17:913][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.04.28-21.37.17:913][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.04.28-21.37.17:913][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.04.28-21.37.17:913][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.04.28-21.37.17:913][  0]LogD3D11RHI:   Driver Version: 24.20.100.6025 (internal:24.20.100.6025, unified:24.20.100.6025)
+[2020.04.28-21.37.17:913][  0]LogD3D11RHI:      Driver Date: 4-25-2018
+[2020.04.28-21.37.17:913][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.04.28-21.37.17:952][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.28-21.37.17:957][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.04.28-21.37.18:336][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.28-21.37.18:345][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.28-21.37.18:356][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.28-21.37.18:367][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.28-21.37.18:377][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.28-21.37.18:388][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.28-21.37.18:400][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.28-21.37.18:414][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.28-21.37.18:419][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.28-21.37.18:453][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.28-21.37.18:455][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.28-21.37.18:471][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.28-21.37.18:471][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.28-21.37.18:483][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.28-21.37.18:483][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.28-21.37.18:490][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.28-21.37.18:496][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.28-21.37.18:503][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.28-21.37.18:510][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.28-21.37.18:532][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.28-21.37.18:532][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.28-21.37.18:532][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.28-21.37.18:541][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.28-21.37.18:591][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../340/MeleeAttacks/Intermediate/Shaders/WorkingDirectory/3996/).
+[2020.04.28-21.37.18:591][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mason/AppData/Local/Temp/UnrealShaderWorkingDir/C03CDC7D4C0937CCE8EAAFBEF213E497/'.
+[2020.04.28-21.37.18:594][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.28-21.37.18:594][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.28-21.37.18:594][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.28-21.37.19:180][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.28-21.37.19:225][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/mason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.28-21.37.19:226][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.28-21.37.19:226][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../340/MeleeAttacks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.28-21.37.19:226][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.28-21.37.19:226][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../340/MeleeAttacks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-21.37.19:226][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.28-21.37.19:238][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.28-21.37.19:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-21.37.19:238][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.28-21.37.19:240][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.28-21.37.19:240][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.28-21.37.19:240][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.28-21.37.19:261][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.28-21.37.19:262][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.28-21.37.19:264][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.28-21.37.19:316][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.04.28-21.37.19:600][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-21.37.19:771][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.28-21.37.19:771][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.28-21.37.19:771][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.28-21.37.19:771][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.28-21.37.19:771][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.28-21.37.19:781][  0]LogNetVersion: MeleeAttacks 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 458338130)
+[2020.04.28-21.37.20:250][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.066206 seconds
+[2020.04.28-21.37.20:258][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.28-21.37.20:258][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.28-21.37.20:258][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.28-21.37.21:127][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.28-21.37.21:130][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.28-21.37.21:179][  0]SourceControl: Source control is disabled
+[2020.04.28-21.37.21:179][  0]SourceControl: Source control is disabled
+[2020.04.28-21.37.21:180][  0]SourceControl: Source control is disabled
+[2020.04.28-21.37.21:181][  0]SourceControl: Source control is disabled
+[2020.04.28-21.37.21:260][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.28-21.37.21:362][  0]LogOcInput: OculusInput pre-init called
+[2020.04.28-21.37.21:368][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.28-21.37.21:368][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.28-21.37.21:443][  0]LogEngine: Initializing Engine...
+[2020.04.28-21.37.21:445][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.28-21.37.21:446][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.28-21.37.21:665][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.28-21.37.21:682][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.28-21.37.21:695][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.28-21.37.21:799][  0]LogInit: FAudioDevice initialized.
+[2020.04.28-21.37.21:799][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.28-21.37.21:886][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/mason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.28-21.37.21:893][  0]LogInit: Texture streaming: Enabled
+[2020.04.28-21.37.21:912][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.28-21.37.21:912][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.28-21.37.21:915][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.28-21.37.21:981][  0]LogInit: Transaction tracking system initialized
+[2020.04.28-21.37.22:010][  0]BlueprintLog: New page: Editor Load
+[2020.04.28-21.37.22:086][  0]LocalizationService: Localization service is disabled
+[2020.04.28-21.37.22:313][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Content/' took 0.01s
+[2020.04.28-21.37.22:313][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.28-21.37.22:313][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.28-21.37.22:498][  0]SourceControl: Source control is disabled
+[2020.04.28-21.37.22:498][  0]Cmd: MAP LOAD FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-21.37.22:498][  0]LogEditorServer: Warning: Can't find file '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.28-21.37.22:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-21.37.22:498][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2020.04.28-21.37.22:498][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2020.04.28-21.37.22:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.37.22:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.37.22:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.37.22:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.37.22:640][  0]LogCollectionManager: Loaded 0 collections in 0.001738 seconds
+[2020.04.28-21.37.22:649][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Saved/Collections/' took 0.00s
+[2020.04.28-21.37.22:649][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Content/Developers/mason/Collections/' took 0.00s
+[2020.04.28-21.37.22:649][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Content/Collections/' took 0.00s
+[2020.04.28-21.37.22:649][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.04.28-21.37.22:656][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2863 classes and 680 folders.
+[2020.04.28-21.37.22:662][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.28-21.37.22:700][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.28-21.37.22:705][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.28-21.37.22:718][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.28-21.37.22:726][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.28-21.37.22:728][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.28-21.37.22:736][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.28-21.37.22:807][  0]LogRenderer: Reallocating scene render targets to support 880x440 Format 10 NumSamples 1 (Frame:1).
+[2020.04.28-21.37.22:892][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.28-21.37.22:893][  0]LogLoad: (Engine Initialization) Total time: 6.55 seconds
+[2020.04.28-21.37.22:893][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.28-21.37.22:945][  0]LogAssetRegistry: Asset discovery search completed in 3.6286 seconds
+[2020.04.28-21.37.22:948][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.04.28-21.37.22:948][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2020.04.28-21.37.22:949][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.28-21.37.23:202][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.28-21.37.26:547][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.37.41:655][110]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.28-21.37.41:677][110]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/FirstPieceOfMap) is flushing async loading
+[2020.04.28-21.37.41:677][110]LogStreaming: Display: Flushing async loaders.
+[2020.04.28-21.37.42:069][110]LogSlate: Window 'Open Level' being destroyed
+[2020.04.28-21.38.09:864][162]LogAIModule: Creating AISystem for world PersistentLevelLighting
+[2020.04.28-21.38.09:913][162]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting
+[2020.04.28-21.38.09:948][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.28-21.38.12:927][162]LogSlate: Window 'Save Content' being destroyed
+[2020.04.28-21.38.12:930][162]Cmd: MAP LOAD FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-21.38.12:932][162]LightingResults: New page: Lighting Build
+[2020.04.28-21.38.12:936][162]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.04.28-21.38.12:937][162]LoadErrors: New page: Loading map: PersistentLevelLighting.umap
+[2020.04.28-21.38.12:937][162]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-21.38.12:938][162]LogWorld: UWorld::CleanupWorld for FirstPieceOfMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-21.38.12:939][162]MapCheck: New page: Map Check
+[2020.04.28-21.38.12:939][162]LightingResults: New page: Lighting Build
+[2020.04.28-21.38.12:957][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.04.28-21.38.12:959][162]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/FirstPieceOfMap) is flushing async loading
+[2020.04.28-21.38.12:959][162]LogStreaming: Display: Flushing async loaders.
+[2020.04.28-21.38.12:975][162]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/SecondPieceOfMap) is flushing async loading
+[2020.04.28-21.38.13:047][162]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.28-21.38.13:072][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.28-21.38.13:105][162]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-21.38.13:105][162]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap' which isn't loaded.
+[2020.04.28-21.38.13:105][162]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2020.04.28-21.38.13:106][162]LogFileHelpers: Loading map 'PersistentLevelLighting' took 0.175
+[2020.04.28-21.38.13:164][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.04.28-21.38.19:538][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.04.28-21.38.19:760][361]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting7DC3D5D445DE0E1213C720B0B6011BAF.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.38.20:135][361]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat5DB833BA44828E3C6C6D5E9B4D83A91E.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.38.33:327][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.38.33:470][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.04.28-21.38.33:691][773]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingE0609B1B44AEDF5834FF328164053C8F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.38.34:045][773]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatC099A09349473D8F8A56C0937D12293A.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.38.34:766][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.28-21.38.42:110][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.38.42:271][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.04.28-21.38.42:491][ 29]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingB31633CE4A9F5A46359A889FCAB3AEE1.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.38.42:812][ 29]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat4470A5614BF72FB97FF081AD3DC5D762.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.38.43:647][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-21.38.43:679][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.38.43:679][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.38.43:679][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.38.43:680][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-21.38.43:680][ 58]PIE: New page: PIE session: PersistentLevelLighting (Apr 28, 2020, 1:38:43 PM)
+[2020.04.28-21.38.43:682][ 58]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.28-21.38.43:684][ 58]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-21.38.43:701][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016766s)
+[2020.04.28-21.38.43:703][ 58]LogAIModule: Creating AISystem for world PersistentLevelLighting
+[2020.04.28-21.38.43:703][ 58]LogPlayLevel: PIE: World Init took: (0.002663s)
+[2020.04.28-21.38.43:703][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting to /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting (0.019876s)
+[2020.04.28-21.38.43:732][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.04.28-21.38.43:743][ 58]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.28-21.38.43:764][ 58]LogInit: FAudioDevice initialized.
+[2020.04.28-21.38.43:777][ 58]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.28-21.38.43:778][ 58]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting up for play (max tick rate 0) at 2020.04.28-17.38.43
+[2020.04.28-21.38.43:778][ 58]LogWorld: Bringing up level for play took: 0.000843
+[2020.04.28-21.38.43:778][ 58]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.04.28-21.38.43:781][ 58]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.28-21.38.43:788][ 58]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.28-21.38.43:792][ 58]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting 0.154
+[2020.04.28-21.38.43:793][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.38.43:793][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.38.43:793][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.38.45:018][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.38.45:018][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.38.45:018][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.38.45:018][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.38.45:019][ 99]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-21.38.45:019][ 99]LogWorld: UWorld::CleanupWorld for PersistentLevelLighting, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-21.38.45:070][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-21.38.45:070][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.38.45:071][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.38.45:071][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.38.45:108][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.38.45:111][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.04.28-21.38.45:123][100]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.28-21.41.16:413][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-21.41.16:442][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.41.16:442][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.41.16:442][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.41.16:442][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-21.41.16:442][ 16]PIE: New page: PIE session: PersistentLevelLighting (Apr 28, 2020, 1:41:16 PM)
+[2020.04.28-21.41.16:442][ 16]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-21.41.16:456][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013618s)
+[2020.04.28-21.41.16:458][ 16]LogAIModule: Creating AISystem for world PersistentLevelLighting
+[2020.04.28-21.41.16:459][ 16]LogPlayLevel: PIE: World Init took: (0.002357s)
+[2020.04.28-21.41.16:459][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting to /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting (0.016385s)
+[2020.04.28-21.41.16:480][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.28-21.41.16:487][ 16]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.28-21.41.16:503][ 16]LogInit: FAudioDevice initialized.
+[2020.04.28-21.41.16:510][ 16]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.28-21.41.16:511][ 16]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting up for play (max tick rate 0) at 2020.04.28-17.41.16
+[2020.04.28-21.41.16:511][ 16]LogWorld: Bringing up level for play took: 0.000475
+[2020.04.28-21.41.16:511][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.04.28-21.41.16:513][ 16]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.28-21.41.16:515][ 16]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting 0.876
+[2020.04.28-21.41.16:515][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.41.16:515][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.41.16:515][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.41.16:798][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.41.16:798][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.41.16:798][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.41.16:798][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.41.16:798][ 24]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-21.41.16:798][ 24]LogWorld: UWorld::CleanupWorld for PersistentLevelLighting, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-21.41.16:875][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-21.41.16:875][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-21.41.16:875][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-21.41.16:875][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-21.41.16:897][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-21.41.16:899][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.04.28-21.41.16:908][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.04.28-21.41.31:091][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.41.31:224][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.04.28-21.41.31:371][518]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting2FE55A31463C8DABCFBDFF9EB4B66988.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.41.31:633][518]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatB3DB57D04B663DE496F7C2BDBD997017.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.41.38:662][842]MapCheck: New page: Map Check
+[2020.04.28-21.41.38:677][842]LightingResults: New page: Lighting Build - Apr 28, 2020, 1:41:38 PM
+[2020.04.28-21.41.38:784][842]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.28-21.41.39:008][842]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.28-21.41.39:023][842]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.28-21.41.39:536][842]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.28-21.41.39:536][842]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3996
+[2020.04.28-21.41.46:713][842]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.28-21.41.46:713][842]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.28-21.41.46:713][842]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.28-21.41.46:713][842]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.28-21.41.46:713][842]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.28-21.41.47:002][842]LogEditorBuildUtils: Build time 0:08
+[2020.04.28-21.41.47:500][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.28-21.41.57:310][ 30]Job is a success!
+[2020.04.28-21.41.57:447][ 31]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2020.04.28-21.41.57:447][ 31]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.28-21.41.57:447][ 31]LogVolumetricLightmapImport:      BrickData 210x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.04.28-21.41.57:447][ 31]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.28-21.41.57:447][ 31]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2020.04.28-21.41.57:447][ 31]LogVolumetricLightmapImport:          1: 9.5% covering 6.3% of volume
+[2020.04.28-21.41.57:447][ 31]LogVolumetricLightmapImport:          2: 88.1% covering 0.9% of volume
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.04.28-21.41.58:783][ 31]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.04.28-21.41.58:983][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.04.28-21.41.58:983][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.04.28-21.41.58:983][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.04.28-21.41.58:983][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.04.28-21.41.59:013][ 31]Lightmass on DESKTOP-5VPBJCF: 10.8 sec total, 202 ms importing, 24 ms setup, 1.28 sec photons, 9.29 sec processing, 0 ms extra exporting [10/10 mappings]. Threads: 37.1 sec total, 15.8 sec processing.
+[2020.04.28-21.41.59:015][ 31]LogStaticLightingSystem: PersistentLevelLighting_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.04.28-21.41.59:015][ 31]LogStaticLightingSystem: FirstPieceOfMap_BuiltData storing lightmap data for 4 meshes in 1 LightmapResourceClusters (4.0 Meshes per cluster).
+[2020.04.28-21.41.59:015][ 31]LogStaticLightingSystem: SecondPieceOfMap_BuiltData storing lightmap data for 4 meshes in 1 LightmapResourceClusters (4.0 Meshes per cluster).
+[2020.04.28-21.41.59:051][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.04.28-21.41.59:057][ 31]LogStaticLightingSystem: Illumination: 20.3 sec (1.27 sec encoding lightmaps, 193 ms encoding shadowmaps)
+[2020.04.28-21.41.59:057][ 31]LogStaticLightingSystem: Lightmap texture memory:  5.4 MB (5.4 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.04.28-21.41.59:057][ 31]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.04.28-21.41.59:727][ 31]DumpUnbuiltLightIteractions
+[2020.04.28-21.41.59:727][ 31]Lights with unbuilt interactions: 0
+[2020.04.28-21.41.59:727][ 31]
+[2020.04.28-21.41.59:727][ 31]Primitives with unbuilt interactions: 0
+[2020.04.28-21.41.59:892][ 32]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.28-21.41.59:892][ 32]MapCheck: New page: PersistentLevelLighting - Apr 28, 2020, 1:41:59 PM
+[2020.04.28-21.41.59:892][ 32]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap' which isn't loaded.
+[2020.04.28-21.41.59:892][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.487ms to complete.
+[2020.04.28-21.42.06:608][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.42.08:251][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.04.28-21.42.08:444][416]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingA51F0A43412F49B9BA7D37823C67D68C.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.42.08:494][416]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.276
+[2020.04.28-21.42.10:066][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/SecondPieceOfMap" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/SecondPieceOfMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.28-21.42.10:097][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.28-21.42.10:110][553]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: SecondPieceOfMap, Actor: /Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.REINST_SecondPieceOfMap_C_0
+[2020.04.28-21.42.10:255][553]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/SecondPieceOfMapC3F2CF17440A48A36BF142AB991C7329.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/SecondPieceOfMap.umap'
+[2020.04.28-21.42.10:261][553]LogFileHelpers: Saving map 'SecondPieceOfMap' took 0.196
+[2020.04.28-21.42.11:839][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FirstPieceOfMap" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/FirstPieceOfMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.28-21.42.11:868][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.04.28-21.42.11:883][675]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: FirstPieceOfMap, Actor: /Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.REINST_FirstPieceOfMap_C_0
+[2020.04.28-21.42.12:033][675]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/FirstPieceOfMap91A9F19B4800725C48AF93BA3D2F71AC.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/FirstPieceOfMap.umap'
+[2020.04.28-21.42.12:040][675]LogFileHelpers: Saving map 'FirstPieceOfMap' took 0.201
+[2020.04.28-21.42.12:981][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.28-21.42.13:162][708]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingE013160442EC7CA4681C2DAEBDB57101.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.42.13:239][708]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat65870FAF49A78A3EB07C88A82D72DCF3.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.42.29:713][274]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting
+[2020.04.28-21.42.30:142][274]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.28-21.42.30:941][274]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.28-21.42.30:978][275]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.28-21.43.01:987][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.43.02:162][329]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2020.04.28-21.43.02:525][329]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting6844B3C047699C0D36BC75A6C195FB20.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.43.02:616][329]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatFD50F39146F28E2DC2B74B84B9A2588D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.43.08:817][537]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.43.09:677][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.43.09:832][569]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.04.28-21.43.10:129][569]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting9355857441C0C2A6793998AFF4748ECF.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.43.10:209][569]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat922B4BBC473FAA1D45AED8BA851A7610.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.43.14:463][712]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.28-21.43.25:825][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.43.25:980][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.04.28-21.43.26:317][ 79]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingC8A41455440280B44B6CE18E43C02190.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.43.26:405][ 79]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat45893E3B4F46942F051BC4A377FBDEFD.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.43.32:979][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.43.33:127][296]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.04.28-21.43.33:478][296]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting745B1E6740DDFE565B202790A43213B2.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.43.33:556][296]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat280B0B274017941B273A26B1EF2B85F1.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.43.44:853][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.43.44:987][662]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.04.28-21.43.45:283][662]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting7A25808841990CDD6B91EF8666EFCEFA.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.43.45:366][662]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatEB2057044864870C9E994DB7D6012E18.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.43.49:002][780]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.28-21.43.55:513][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.43.55:672][988]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.04.28-21.43.55:993][988]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingC0731BFE4B073E32D147BF9E606C7332.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.43.56:074][988]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat085B8CD647D3E7B4A7EDDFAF9B1B86D3.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.44.03:976][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.44.04:166][245]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.04.28-21.44.04:471][245]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting21F8B4C6420294A8AFE76AA6C2A0673A.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.44.04:584][245]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat4069484241824EC607AE258AE4FF03C1.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.44.16:398][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.44.16:554][644]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.04.28-21.44.16:851][644]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting4F12A3D64C5A06E2B0946583BBF0436D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.44.16:929][644]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatA1D4BB8341D8F6BAF38D8CBF2FD78086.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.44.24:963][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.44.25:139][911]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.04.28-21.44.25:482][911]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting6C588534409904DBFAFFA5938BF9CE9B.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.44.25:564][911]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat706BDE924DA9D8EBDD4829823B0A39D5.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.44.33:810][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.44.33:944][191]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.04.28-21.44.34:245][191]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingC9E64F204468BC5CC12C6BBB12118152.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.44.34:325][191]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatDEBFEA364CB6A89393EB81834DF132B7.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.44.41:354][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.44.41:514][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.04.28-21.44.41:829][435]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting9654E5CB4A062E2F4168D380DC4451B4.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.44.41:909][435]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatAA0FF7E74348E580C3252F8F1572B1FB.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.44.50:562][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.44.50:741][739]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.04.28-21.44.51:038][739]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingA31FE629402E9D9D7382B08FDA82D53F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.44.51:117][739]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat163EC6BA423AA7215C8D74845342BED9.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.44.58:063][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.28-21.45.04:444][186]Cmd: TRANSACTION UNDO
+[2020.04.28-21.45.04:444][186]LogEditorTransaction: Undo Move Actors
+[2020.04.28-21.45.05:449][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.45.05:608][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.28-21.45.05:865][294]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingE3A8202D4DDC84E4CFF8DA8AC6346E09.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.45.05:939][294]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat902AE10D47915B09C29C51A0F24D9777.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.45.14:429][580]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.45.15:431][612]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.45.16:106][634]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.45.17:100][666]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.45.18:211][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.45.18:366][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.04.28-21.45.18:706][708]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting262FDD434E7CE3BB4015A4A8487BBC79.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.45.18:784][708]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat71C4EE934A6114BCA5D3C6AE13BB0708.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.45.21:238][794]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.28-21.45.23:042][854]Cmd: DUPLICATE
+[2020.04.28-21.45.23:043][854]Cmd: ACTOR DUPLICATE
+[2020.04.28-21.45.31:114][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.45.31:276][123]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.04.28-21.45.31:576][123]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingC521AD0C4663BD8B2D2AF9A9050FDD21.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.45.31:656][123]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatA2C40C594C63BB656FBBFAA73D427820.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.45.41:953][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.45.42:127][479]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.04.28-21.45.42:429][479]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting0C31D6244E9C9228CCD77C96A4940CD4.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.45.42:506][479]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat652ED8E9420F182E69B8419A63F336C8.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.47.15:485][339]LogUObjectArray: Warning: Other object in slot
+[2020.04.28-21.47.15:576][339]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.28-21.47.16:276][339]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.699 s
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: 
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/SKismetInspector.cpp] [Line: 628]
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: Object in KismetInspector is invalid, see TTP 281915
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: Stack: 
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe13f87dc9 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe13cebd13 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe13ce8ac3 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919a91 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe1a56f27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe1a573f64 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe1a56f27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe1a573f64 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191868c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191855f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:276][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21917c94 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191872a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe21919db0 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe2191a75e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe1a3639e6 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe1a390c82 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe1a38a957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe623b4936 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe623a26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe623b5ff1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe6239edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe87735c0d USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe8773521c USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe8773443b USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe87733aff USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe83e2c58f uxtheme.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe83e2bff1 uxtheme.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe8773403f USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe623b5e6b UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe6239edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe87735c0d USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe877357dc USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe87745100 USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe8921fde4 ntdll.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe86c61b84 win32u.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe623b6b0e UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe6239edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe87735c0d USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe87735602 USER32.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe623b88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ff6cd536980 UE4Editor.exe!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ff6cd54a91c UE4Editor.exe!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ff6cd54a9fa UE4Editor.exe!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ff6cd55b92c UE4Editor.exe!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ff6cd55e60e UE4Editor.exe!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe87367bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: [Callstack] 0x00007ffe891ece51 ntdll.dll!UnknownFunction []
+[2020.04.28-21.47.16:277][339]LogOutputDevice: Error: 
+[2020.04.28-21.47.16:282][339]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.28-21.47.16:904][339]LogStats:                    SendNewReport -  0.623 s
+[2020.04.28-21.47.16:904][339]LogStats:             FDebug::EnsureFailed -  1.328 s
+[2020.04.28-21.47.19:422][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.28-21.47.19:622][426]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting46C29550400A1623381278B5461F3C1E.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.47.19:688][426]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatB4E83D0449B8DF4B46E832915FB44D64.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.47.23:920][571]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={EB2FA968-4E42-88D9-15B4-ACB25E52A258}
+[2020.04.28-21.47.23:920][571]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={294CCB71-44E2-18DB-1CA7-30857441840A}
+[2020.04.28-21.47.24:554][593]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.47.25:291][617]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.47.27:740][697]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.47.28:357][716]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.47.29:386][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.47.29:520][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.04.28-21.47.29:751][756]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingF24990C34C266477258390A8F7B80C3F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.47.29:819][756]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatAD5F3C304BCD75BDE6602AA5D8B7D67D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.47.31:100][800]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.28-21.47.36:547][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.47.36:680][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.28-21.47.36:878][988]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting5BF440B644D614C1E05D5996D558CE48.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.47.36:943][988]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatD31AEFC04173EFDD77A89E88F338964E.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.47.45:911][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.47.46:029][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.04.28-21.47.46:226][299]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting2B25898540F9AAE9A108418A84477E83.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.47.46:291][299]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatFD7D575A40732FCE6DB07385B7197C29.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.47.51:696][477]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.47.53:767][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.47.53:922][549]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.04.28-21.47.54:227][549]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingE32BB5B346EDB8CD60A85190C444EB34.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.47.54:308][549]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatE866BF5F41235FF47878BA9A5D42864B.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.48.06:519][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.48.06:659][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.04.28-21.48.06:963][936]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting87DE803A4B72A136A62BEDA439D99C48.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.48.07:043][936]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat6C8727F5488B3CB344F5B79607C7CF8B.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.48.17:503][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.48.17:649][268]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.04.28-21.48.17:998][268]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingB3B53D2B41D44558936FDB871CC2C6E3.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.48.18:075][268]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatA2C990B84A7485916E5FF9A4C245AF55.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.48.35:836][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.48.35:987][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.04.28-21.48.36:335][842]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingA354F54D4CC2B184C7845E902B0DC654.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.48.36:422][842]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatE37ADEA745D21DD84CEBFBB84CA428C6.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.48.40:956][992]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.04.28-21.48.41:254][992]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingBE5B459C4B4A6FF717E72FB0EEAE12AE.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.48.41:334][992]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat6B26C5034C11AB1453F14BA8B8ADAF2F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.48.54:329][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.48.54:476][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.04.28-21.48.54:774][411]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting222D74654BF5A78AF90842B56DACC8BC.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.48.54:854][411]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat449DA8FE4B9741E9E1AB01988AFB237B.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.49.07:723][831]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.04.28-21.49.08:083][831]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting58397C9648800D7E17BACD88C268BF50.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.49.08:164][831]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatFAC226C742BF6273F3E6F09FBB3D14A6.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.49.17:188][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.49.17:339][128]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2020.04.28-21.49.17:642][128]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting13B475C2466B726169BD31A8D3A7F781.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.49.17:722][128]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatA431A0E546A2627F0D45EF8A92B84773.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.49.23:297][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.49.23:470][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.04.28-21.49.23:759][314]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingC5E831C64730F4B6A5CECE95FD2AA04F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.49.23:837][314]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat01F36D464B1C7CE17CC717BC55C38F26.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.49.27:262][428]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2020.04.28-21.49.28:395][462]Cmd: DELETE
+[2020.04.28-21.49.28:395][462]Cmd: ACTOR DELETE
+[2020.04.28-21.49.28:399][462]LogEditorActor: Deleted Actor: TriggerBox
+[2020.04.28-21.49.28:467][462]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.04.28-21.49.28:467][462]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2020.04.28-21.49.29:184][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.49.29:334][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.04.28-21.49.29:630][490]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting32C994294D2E99E02B3B40BA212C8909.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.49.29:718][490]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat4F261ABB4A8B39A8981E5D9A7AE623BA.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.49.36:353][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.04.28-21.49.36:647][710]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting94DF3C3C42AFC2909C187897C4C5C1AB.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.49.36:747][710]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat5446CAA248E7B69CA49FE0A308C9B44E.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.49.37:426][734]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.49.38:469][768]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.28-21.49.39:939][815]Cmd: DUPLICATE
+[2020.04.28-21.49.39:939][815]Cmd: ACTOR DUPLICATE
+[2020.04.28-21.49.58:966][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.49.59:109][419]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.04.28-21.49.59:408][419]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingA06B8B1243E8DCAD44E3BCB2C54E5BE2.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.49.59:487][419]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat6AB0454B46F0078327D9278B2093CED1.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.50.08:160][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.50.08:298][702]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.04.28-21.50.08:601][702]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting0211A29F4246919C0C0EDC83E16ACEED.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.50.08:682][702]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatB84FC02648E3E6CE84FC589F807288E2.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.50.22:723][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.50.22:852][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.04.28-21.50.23:148][170]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingAAD39BA94B5D67868DC2648668A58D5F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.50.23:226][170]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatB5F458204A30544DB001E0A7EDCC3F8E.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.50.26:344][276]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor)
+[2020.04.28-21.50.36:721][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.50.36:892][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.04.28-21.50.37:199][618]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting1CDF337D416290646BCA3595E71295BA.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.50.37:278][618]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat54B86BC44F18870B0E174B970241A549.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.50.50:167][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.28-21.50.51:398][ 81]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.28-21.50.52:403][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.50.52:584][120]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.04.28-21.50.52:936][120]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting444790634142D880ED1CFCA7F11B772C.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.50.53:015][120]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatD39CCC5644C2C19090AA4C9263949E80.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.52.27:964][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.52.28:143][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.28-21.52.28:439][316]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingD0180D69441E97F1B739069FC2E3685C.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.52.28:518][316]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat109049E84DEBABC79A67BD8F3C28E685.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.52.39:392][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.52.39:557][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.04.28-21.52.39:861][677]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingFDB1AF0747DCE4B88588209936E9C5D0.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.52.39:939][677]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat0042AFAE4B92BD2733EC2B918B56FB33.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-21.52.42:916][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.28-21.53.00:061][843]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.28-21.53.24:313][189]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.53.24:600][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.04.28-21.53.24:991][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.04.28-21.53.25:263][201]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingD8CE9CE1456C22943DC0319A17DE4CA6.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.53.25:314][201]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.367
+[2020.04.28-21.53.28:862][231]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.28-21.53.41:066][683]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.53.41:362][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.28-21.53.41:747][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.04.28-21.53.42:083][694]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting91DA738A40618FC767E65EA46E33D12E.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.53.42:130][694]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.431
+[2020.04.28-21.53.44:486][711]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.28-21.53.51:931][ 98]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.53.52:228][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.04.28-21.53.52:586][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.28-21.53.52:864][109]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting8C8AF1F047A20D7D7605F7A3D2460840.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.53.52:909][109]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.370
+[2020.04.28-21.53.57:005][135]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.28-21.54.04:945][576]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.54.05:262][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.04.28-21.54.05:688][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.04.28-21.54.05:953][587]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting9F12FAAD4053FF44F8662DBC60ACDA2D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.54.06:000][587]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.363
+[2020.04.28-21.54.06:771][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.54.08:697][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-21.54.22:330][552]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.54.22:624][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.04.28-21.54.23:042][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.28-21.54.23:313][563]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting9A13ABB64D946022EB862DBB2570826A.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.54.23:360][563]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.363
+[2020.04.28-21.54.33:409][835]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.54.33:709][835]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.04.28-21.54.34:112][847]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.04.28-21.54.34:381][847]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting81A4FF9741B1C4B8603699A4EE2B44B3.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.54.34:427][847]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.361
+[2020.04.28-21.55.06:103][399]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.55.06:404][399]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.28-21.55.06:851][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.04.28-21.55.07:121][413]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting445B09C54F455754522EB688D3E9E23D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.55.07:167][413]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.364
+[2020.04.28-21.55.19:056][959]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.55.19:353][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.04.28-21.55.19:772][970]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.04.28-21.55.20:083][970]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingA3A55780466B092E2A7B40BCE5899E2F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.55.20:129][970]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.402
+[2020.04.28-21.55.32:740][403]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.55.33:079][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.04.28-21.55.33:514][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.28-21.55.33:780][415]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting8CABE5DC4DBFACC68FA2C898374AD300.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.55.33:826][415]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.359
+[2020.04.28-21.57.25:970][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.28-21.57.27:033][151]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2020.04.28-21.57.30:545][248]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.28-21.57.51:524][437]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.57.51:742][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.04.28-21.57.52:210][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.28-21.57.52:464][450]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingEA6626FE41B1633C232C218A2DC9A24D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.57.52:509][450]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.341
+[2020.04.28-21.57.57:751][670]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.57.58:086][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.04.28-21.57.58:536][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.04.28-21.57.58:811][684]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting392A4D1548DAB0148D571C9D6C0799F7.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.57.58:857][684]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.370
+[2020.04.28-21.58.35:199][673]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.58.35:382][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.28-21.58.35:845][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.04.28-21.58.36:063][686]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting0F2FCB3C419BA1F13EEBD48D54921B56.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.58.36:103][686]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.297
+[2020.04.28-21.58.55:220][329]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.58.55:524][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.04.28-21.58.56:026][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.04.28-21.58.56:391][342]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingEA2437A0470DB6EF367A0CB9A570ADA7.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.58.56:435][342]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.456
+[2020.04.28-21.59.10:398][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.04.28-21.59.10:727][788]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting111751E2422530A3D5FBA8B5E732CD80.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.59.10:778][788]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.437
+[2020.04.28-21.59.39:318][956]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.59.39:621][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.04.28-21.59.40:830][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.04.28-21.59.41:143][988]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting5956DDE34A994ACAAAB68191F7741CCF.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.59.41:191][988]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.427
+[2020.04.28-21.59.44:201][ 92]BlueprintLog: New page: Compile PersistentLevelLighting
+[2020.04.28-21.59.44:485][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.04.28-21.59.45:132][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.04.28-21.59.45:413][109]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLightingB102DF074016E37C6FAABF84AEB4DAEF.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-21.59.45:458][109]LogFileHelpers: Saving map 'PersistentLevelLighting' took 0.369
+[2020.04.28-22.00.04:453][620]LogSlate: Window 'PersistentLevelLighting' being destroyed
+[2020.04.28-22.00.04:470][620]LogSlate: Window 'PersistentLevelLighting' being destroyed
+[2020.04.28-22.00.04:510][620]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-22.00.05:715][657]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-22.00.05:768][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.00.05:768][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.00.05:768][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.00.05:768][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-22.00.05:769][657]PIE: New page: PIE session: PersistentLevelLighting (Apr 28, 2020, 2:00:05 PM)
+[2020.04.28-22.00.05:769][657]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-22.00.05:788][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019551s)
+[2020.04.28-22.00.05:791][657]LogAIModule: Creating AISystem for world PersistentLevelLighting
+[2020.04.28-22.00.05:791][657]LogPlayLevel: PIE: World Init took: (0.002367s)
+[2020.04.28-22.00.05:791][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting to /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting (0.022232s)
+[2020.04.28-22.00.05:838][657]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.04.28-22.00.05:854][657]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.28-22.00.05:885][657]LogInit: FAudioDevice initialized.
+[2020.04.28-22.00.05:898][657]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.28-22.00.05:900][657]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting up for play (max tick rate 0) at 2020.04.28-18.00.05
+[2020.04.28-22.00.05:900][657]LogWorld: Bringing up level for play took: 0.001004
+[2020.04.28-22.00.05:900][657]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.28-22.00.05:902][657]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.28-22.00.05:906][657]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting 0.267
+[2020.04.28-22.00.05:906][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.00.05:907][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.00.05:907][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.00.06:059][658]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 1 1 0
+[2020.04.28-22.00.25:433][207]LogBlueprintUserMessages: [DamageSponge_2] Chair got hit!
+[2020.04.28-22.00.39:046][597]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_SecondPieceOfMap 1 1 0
+[2020.04.28-22.00.39:080][597]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/ThirdPersonBP/Maps/UEDPIE_0_SecondPieceOfMap took (less than) 25.19 ms
+[2020.04.28-22.00.39:379][607]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 0 0 0
+[2020.04.28-22.00.39:483][608]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.04.28-22.00.45:759][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.00.45:759][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.00.45:759][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.00.45:760][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-22.00.45:760][850]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-22.00.45:760][850]LogWorld: UWorld::CleanupWorld for PersistentLevelLighting, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-22.00.45:829][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-22.00.45:829][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.00.45:829][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.00.45:829][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.00.45:884][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-22.00.45:890][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.28-22.00.45:915][851]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.28-22.00.45:958][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.28-22.00.51:173][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-22.01.19:187][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-22.01.55:385][575]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2020.04.28-22.01.55:437][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.28-22.01.55:438][575]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.04.28-22.02.06:293][830]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.28-22.02.06:670][830]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting6F0E9BB046CEFB1CFD7B9085B11DEB9A.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-22.02.06:760][830]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat0401343D480D7449F006548717942224.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-22.02.07:827][858]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-22.02.07:866][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.07:866][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.07:866][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.07:866][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-22.02.07:867][858]PIE: New page: PIE session: PersistentLevelLighting (Apr 28, 2020, 2:02:07 PM)
+[2020.04.28-22.02.07:868][858]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-22.02.07:889][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020551s)
+[2020.04.28-22.02.07:891][858]LogAIModule: Creating AISystem for world PersistentLevelLighting
+[2020.04.28-22.02.07:891][858]LogPlayLevel: PIE: World Init took: (0.002118s)
+[2020.04.28-22.02.07:891][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting to /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting (0.023159s)
+[2020.04.28-22.02.07:932][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.28-22.02.07:946][858]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.28-22.02.07:968][858]LogInit: FAudioDevice initialized.
+[2020.04.28-22.02.07:979][858]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.28-22.02.07:981][858]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting up for play (max tick rate 0) at 2020.04.28-18.02.07
+[2020.04.28-22.02.07:981][858]LogWorld: Bringing up level for play took: 0.001403
+[2020.04.28-22.02.07:981][858]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.28-22.02.07:983][858]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.28-22.02.07:984][858]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting 0.345
+[2020.04.28-22.02.07:985][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.07:985][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.07:985][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.08:426][871]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 0 0 0
+[2020.04.28-22.02.08:521][875]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 1 1 0
+[2020.04.28-22.02.08:575][877]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 0 0 0
+[2020.04.28-22.02.08:652][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.04.28-22.02.10:225][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.10:225][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.10:225][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.10:226][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-22.02.10:226][950]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-22.02.10:226][950]LogWorld: UWorld::CleanupWorld for PersistentLevelLighting, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-22.02.10:280][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-22.02.10:281][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.10:281][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.10:281][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.10:334][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-22.02.10:340][950]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.04.28-22.02.10:365][951]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.28-22.02.17:515][187]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.28-22.02.22:511][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.28-22.02.29:154][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.04.28-22.02.29:483][549]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting789834354A1DA43144C670BDE2C81622.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-22.02.29:563][549]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDat9D8F010743A6AA671000D58023BB7388.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-22.02.31:550][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/FirstPieceOfMap" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/FirstPieceOfMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.28-22.02.31:588][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.04.28-22.02.31:601][701]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: FirstPieceOfMap, Actor: /Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.REINST_FirstPieceOfMap_C_0
+[2020.04.28-22.02.31:800][701]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/FirstPieceOfMapCF0F40294BB67874E6AA7BB1DB3D8C9C.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/FirstPieceOfMap.umap'
+[2020.04.28-22.02.31:805][701]LogFileHelpers: Saving map 'FirstPieceOfMap' took 0.256
+[2020.04.28-22.02.48:297][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.04.28-22.02.48:636][234]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting350E229B480DBFF104532E927DCE0C22.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-22.02.48:713][234]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatE4114951483B6C521F564B98AA566C85.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-22.02.49:465][261]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-22.02.49:496][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.49:497][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.49:497][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.49:497][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-22.02.49:497][261]PIE: New page: PIE session: PersistentLevelLighting (Apr 28, 2020, 2:02:49 PM)
+[2020.04.28-22.02.49:497][261]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-22.02.49:515][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018349s)
+[2020.04.28-22.02.49:517][261]LogAIModule: Creating AISystem for world PersistentLevelLighting
+[2020.04.28-22.02.49:518][261]LogPlayLevel: PIE: World Init took: (0.001762s)
+[2020.04.28-22.02.49:518][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting to /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting (0.020368s)
+[2020.04.28-22.02.49:555][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.04.28-22.02.49:565][261]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.28-22.02.49:589][261]LogInit: FAudioDevice initialized.
+[2020.04.28-22.02.49:600][261]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.28-22.02.49:602][261]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting.PersistentLevelLighting up for play (max tick rate 0) at 2020.04.28-18.02.49
+[2020.04.28-22.02.49:602][261]LogWorld: Bringing up level for play took: 0.001415
+[2020.04.28-22.02.49:602][261]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.28-22.02.49:604][261]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.28-22.02.49:605][261]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting -0.034
+[2020.04.28-22.02.49:605][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.49:605][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.49:605][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.50:057][275]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 0 0 0
+[2020.04.28-22.02.50:170][280]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 1 1 0
+[2020.04.28-22.02.50:217][280]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap took (less than) 40.97 ms
+[2020.04.28-22.02.50:240][282]LogLevel: ActivateLevel /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPieceOfMap 0 0 0
+[2020.04.28-22.02.50:302][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.28-22.02.50:456][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.50:456][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.50:456][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.50:457][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-22.02.50:457][290]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_PersistentLevelLighting
+[2020.04.28-22.02.50:458][290]LogWorld: UWorld::CleanupWorld for PersistentLevelLighting, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-22.02.50:524][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-22.02.50:525][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting' with GeneratedClass '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/PersistentLevelLighting.PersistentLevelLighting:PersistentLevel.PersistentLevelLighting'
+[2020.04.28-22.02.50:525][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPieceOfMap.FirstPieceOfMap:PersistentLevel.FirstPieceOfMap'
+[2020.04.28-22.02.50:525][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/SecondPieceOfMap.SecondPieceOfMap:PersistentLevel.SecondPieceOfMap'
+[2020.04.28-22.02.50:583][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-22.02.50:588][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.04.28-22.02.50:605][291]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.28-22.02.57:112][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.04.28-22.02.57:440][510]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting17A5D48E4738442C03366DAFA80DB542.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting.umap'
+[2020.04.28-22.02.57:517][510]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PersistentLevelLighting_BuiltDatA48E9B174838DE7F596DEC8A4F70D52F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/PersistentLevelLighting_BuiltData.uasset'
+[2020.04.28-22.03.05:307][771]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SyncInterval 0
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000170A18
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.04.28-22.03.10:186][851]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.04.28-22.03.10:186][851]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:368 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.04.28-22.03.10:186][851]LogD3D11RHI: [Aftermath] GDynamicRHI=000001BF61EB4080, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.04.28-22.03.10:186][851]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.04.28-22.03.10:889][851]LogThreadingWindows: Error: Runnable thread RenderThread 18 crashed.
+[2020.04.28-22.03.10:889][851]LogWindows: Error: === Critical error: ===
+[2020.04.28-22.03.10:889][851]LogWindows: Error: 
+[2020.04.28-22.03.10:889][851]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Util.cpp] [Line: 198] 
+[2020.04.28-22.03.10:889][851]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2020.04.28-22.03.10:889][851]LogWindows: Error: 
+[2020.04.28-22.03.10:889][851]LogWindows: Error: 
+[2020.04.28-22.03.10:889][851]LogWindows: Error: Unhandled Exception: 0x00008000
+[2020.04.28-22.03.10:889][851]LogWindows: Error: 
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe86fba799 KERNELBASE.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bf8baa7 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bf8cbbd UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bd81ada UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bcd67a3 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bcd6688 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe0df7cfa6 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe0df81600 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe0df61c1d UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe0df6d27d UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe299c77b0 UE4Editor-RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe299c72aa UE4Editor-RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe299c8373 UE4Editor-RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe299be7ca UE4Editor-RHI.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe0dce90d6 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe0dcf07f2 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bb54e4a UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bb551f3 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe2ad20021 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe2ad285b4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bfa9f5f UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe1bfa04b1 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe87367bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: [Callstack] 0x00007ffe891ece51 ntdll.dll!UnknownFunction []
+[2020.04.28-22.03.10:889][851]LogWindows: Error: 
+[2020.04.28-22.03.10:889][851]LogWindows: Error: Crash in runnable thread RenderThread 18
+[2020.04.28-22.03.10:890][851]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.28-22.03.10:894][851]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.04.28-22.03.10:894][851]LogWindows: Error: HandleError re-entered.
+[2020.04.28-22.03.10:894][851]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.04.28-22.03.10:905][851]Log file closed, 04/28/20 18:03:10

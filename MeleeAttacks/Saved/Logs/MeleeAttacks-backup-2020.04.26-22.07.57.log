@@ -1,0 +1,1432 @@
+﻿Log file open, 04/26/20 00:23:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MeleeAttacks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.101627
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: G:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.26-04.23.33:910][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.26-04.23.33:910][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.26-04.23.33:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.26-04.23.33:910][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.26-04.23.33:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.26-04.23.33:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.26-04.23.33:910][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.26-04.23.33:910][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.26-04.23.33:910][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.26-04.23.33:910][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.26-04.23.33:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.26-04.23.33:911][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.26-04.23.33:914][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.26-04.23.33:914][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.26-04.23.33:915][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.26-04.23.33:916][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.26-04.23.33:916][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.26-04.23.33:916][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.26-04.23.33:919][  0]LogHAL: Display: Platform has ~ 16 GB [17046343680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.26-04.23.33:920][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.26-04.23.33:920][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.26-04.23.33:920][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/340/MeleeAttacks/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.26-04.23.33:921][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/340/MeleeAttacks/Saved/Config/Windows/Engine.ini]
+[2020.04.26-04.23.33:921][  0]LogInit: Computer: DESKTOP-5VPBJCF
+[2020.04.26-04.23.33:921][  0]LogInit: User: mason
+[2020.04.26-04.23.33:921][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.26-04.23.33:921][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.26-04.23.33:921][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.26-04.23.33:921][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.26-04.23.33:921][  0]LogMemory: Process Physical Memory: 100.43 MB used, 100.43 MB peak
+[2020.04.26-04.23.33:921][  0]LogMemory: Process Virtual Memory: 99.89 MB used, 99.89 MB peak
+[2020.04.26-04.23.33:922][  0]LogMemory: Physical Memory: 6872.62 MB used,  9384.04 MB free, 16256.66 MB total
+[2020.04.26-04.23.33:922][  0]LogMemory: Virtual Memory: 4651.61 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.04.26-04.23.33:924][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.26-04.23.33:950][  0]LogInit: Using OS detected language (en-US).
+[2020.04.26-04.23.33:950][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.26-04.23.33:951][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.26-04.23.34:180][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.26-04.23.34:233][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.26-04.23.34:233][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.26-04.23.34:465][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.26-04.23.34:465][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.26-04.23.34:506][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.04.26-04.23.34:506][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.26-04.23.34:508][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.26-04.23.34:508][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.26-04.23.34:508][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.26-04.23.34:515][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.26-04.23.34:516][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.26-04.23.34:516][  0]LogWindows: EnumDisplayDevices:
+[2020.04.26-04.23.34:516][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.04.26-04.23.34:516][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.04.26-04.23.34:516][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.04.26-04.23.34:517][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.04.26-04.23.34:517][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.04.26-04.23.34:517][  0]LogD3D11RHI:   Driver Version: 24.20.100.6025 (internal:24.20.100.6025, unified:24.20.100.6025)
+[2020.04.26-04.23.34:517][  0]LogD3D11RHI:      Driver Date: 4-25-2018
+[2020.04.26-04.23.34:517][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.04.26-04.23.34:554][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.26-04.23.34:562][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.04.26-04.23.35:025][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.26-04.23.35:035][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.26-04.23.35:045][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.26-04.23.35:053][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.26-04.23.35:062][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.26-04.23.35:070][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.26-04.23.35:079][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.26-04.23.35:087][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.26-04.23.35:091][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.26-04.23.35:131][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.26-04.23.35:133][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.26-04.23.35:150][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.26-04.23.35:150][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.26-04.23.35:165][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.26-04.23.35:166][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.26-04.23.35:174][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.26-04.23.35:181][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.26-04.23.35:188][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.26-04.23.35:198][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.26-04.23.35:237][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.26-04.23.35:237][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.26-04.23.35:237][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.26-04.23.35:250][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.26-04.23.35:323][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../340/MeleeAttacks/Intermediate/Shaders/WorkingDirectory/22520/).
+[2020.04.26-04.23.35:324][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mason/AppData/Local/Temp/UnrealShaderWorkingDir/7B700EB94EDB0E5B4B45C8A1040AEA0F/'.
+[2020.04.26-04.23.35:327][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.26-04.23.35:328][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.26-04.23.35:328][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.26-04.23.35:972][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.26-04.23.36:021][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/mason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.26-04.23.36:022][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.26-04.23.36:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../340/MeleeAttacks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.26-04.23.36:022][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.26-04.23.36:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../340/MeleeAttacks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.26-04.23.36:022][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.26-04.23.36:033][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.26-04.23.36:033][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.26-04.23.36:033][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.26-04.23.36:035][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.26-04.23.36:035][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.26-04.23.36:035][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.26-04.23.36:057][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.26-04.23.36:059][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.26-04.23.36:059][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.26-04.23.36:115][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.04.26-04.23.36:467][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.26-04.23.36:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.26-04.23.36:648][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.26-04.23.36:648][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.26-04.23.36:648][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.26-04.23.36:648][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.26-04.23.36:661][  0]LogNetVersion: MeleeAttacks 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 458338130)
+[2020.04.26-04.23.37:220][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.089630 seconds
+[2020.04.26-04.23.37:231][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.26-04.23.37:231][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.26-04.23.37:231][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.26-04.23.38:198][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.26-04.23.38:200][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.26-04.23.38:254][  0]SourceControl: Source control is disabled
+[2020.04.26-04.23.38:254][  0]SourceControl: Source control is disabled
+[2020.04.26-04.23.38:255][  0]SourceControl: Source control is disabled
+[2020.04.26-04.23.38:257][  0]SourceControl: Source control is disabled
+[2020.04.26-04.23.38:351][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.26-04.23.38:465][  0]LogOcInput: OculusInput pre-init called
+[2020.04.26-04.23.38:470][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.26-04.23.38:470][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.26-04.23.38:540][  0]LogEngine: Initializing Engine...
+[2020.04.26-04.23.38:541][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.26-04.23.38:542][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.26-04.23.38:762][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.26-04.23.38:785][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.26-04.23.38:798][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-04.23.38:822][  0]LogInit: FAudioDevice initialized.
+[2020.04.26-04.23.38:822][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.26-04.23.38:905][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/mason/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.26-04.23.38:913][  0]LogInit: Texture streaming: Enabled
+[2020.04.26-04.23.38:933][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.26-04.23.38:933][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.26-04.23.38:936][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.26-04.23.39:011][  0]LogInit: Transaction tracking system initialized
+[2020.04.26-04.23.39:043][  0]BlueprintLog: New page: Editor Load
+[2020.04.26-04.23.39:123][  0]LocalizationService: Localization service is disabled
+[2020.04.26-04.23.39:393][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Content/' took 0.01s
+[2020.04.26-04.23.39:393][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.26-04.23.39:393][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.26-04.23.39:602][  0]SourceControl: Source control is disabled
+[2020.04.26-04.23.39:603][  0]Cmd: MAP LOAD FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-04.23.39:603][  0]LightingResults: New page: Lighting Build
+[2020.04.26-04.23.39:605][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-04.23.39:606][  0]MapCheck: New page: Map Check
+[2020.04.26-04.23.39:606][  0]LightingResults: New page: Lighting Build
+[2020.04.26-04.23.39:627][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.04.26-04.23.40:201][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.26-04.23.40:220][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-04.23.40:270][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.26-04.23.40:270][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-04.23.40:270][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2020.04.26-04.23.40:270][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.668
+[2020.04.26-04.23.40:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-04.23.40:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-04.23.40:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-04.23.40:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-04.23.40:496][  0]LogCollectionManager: Loaded 0 collections in 0.003423 seconds
+[2020.04.26-04.23.40:510][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Saved/Collections/' took 0.00s
+[2020.04.26-04.23.40:510][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Content/Developers/mason/Collections/' took 0.00s
+[2020.04.26-04.23.40:510][  0]LogFileCache: Scanning file cache for directory 'G:/340/MeleeAttacks/Content/Collections/' took 0.00s
+[2020.04.26-04.23.40:510][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.04.26-04.23.40:519][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2863 classes and 680 folders.
+[2020.04.26-04.23.40:527][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.26-04.23.41:018][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.26-04.23.41:048][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.26-04.23.41:161][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.26-04.23.41:184][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.26-04.23.41:187][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.26-04.23.41:206][  0]LogSlate: Took 0.010295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.26-04.23.41:361][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-04.23.41:429][  0]LogRenderer: Reallocating scene render targets to support 1096x480 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-04.23.41:540][  0]LogSlate: Took 0.006897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-04.23.41:598][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.26-04.23.41:598][  0]LogLoad: (Engine Initialization) Total time: 8.97 seconds
+[2020.04.26-04.23.41:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.26-04.23.41:959][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.26-04.23.42:420][  4]LogAssetRegistry: Asset discovery search completed in 6.3050 seconds
+[2020.04.26-04.23.42:425][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.04.26-04.23.42:425][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2020.04.26-04.23.44:692][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-04.24.11:013][920]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-04.24.12:435][920]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.26-04.24.41:744][443]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1F5459D5-43CC-AB00-1F59-F6885214C477}
+[2020.04.26-04.24.50:297][730]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPC/NPC.NPC
+[2020.04.26-04.24.50:680][730]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.26-04.24.51:718][730]LogRenderer: Reallocating scene render targets to support 1096x540 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-04.24.54:457][784]LogSlate: Took 0.008379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.26-04.25.15:972][620]LogTexture: Display: Building textures: T_CharM_Standard_Mask (DXT1, 2048X2048)
+[2020.04.26-04.25.15:973][620]LogTexture: Display: Building textures: T_CharM_Standard_D (DXT1, 2048X2048)
+[2020.04.26-04.25.15:973][620]LogTexture: Display: Building textures: T_CharM_Standard_N (BC5, 2048X2048)
+[2020.04.26-04.25.15:973][620]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Standard...
+[2020.04.26-04.25.15:982][620]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Standard.SK_CharM_Standard
+[2020.04.26-04.25.15:990][620]LogMaterial: Display: Missing cached shader map for material M_Char_Standard, compiling. 
+[2020.04.26-04.25.16:078][620]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.04.26-04.25.16:078][620]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2020.04.26-04.25.16:078][620]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.04.26-04.25.29:353][887]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.26-04.25.34:504][120]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.26-04.25.36:071][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.04.26-04.25.37:272][148]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.04.26-04.25.53:070][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-04.25.53:070][394]BlueprintLog: New page: Compile NPC
+[2020.04.26-04.25.53:589][394]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.04.26-04.25.53:589][394]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.04.26-04.25.53:599][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.04.26-04.25.55:246][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/NPC" FILE="../../../../340/MeleeAttacks/Content/NPC/NPC.uasset" SILENT=true
+[2020.04.26-04.25.55:315][423]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/NPCF792922D4F934817735661A168187E1E.tmp' to '../../../../340/MeleeAttacks/Content/NPC/NPC.uasset'
+[2020.04.26-04.26.02:675][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-04.26.02:756][542]BlueprintLog: New page: Compile NPC
+[2020.04.26-04.26.03:366][542]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.04.26-04.26.03:372][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.04.26-04.26.03:502][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/NPC" FILE="../../../../340/MeleeAttacks/Content/NPC/NPC.uasset" SILENT=true
+[2020.04.26-04.26.03:587][545]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/NPC9516DF464EC2A2B8AE7F7CA6E66949C8.tmp' to '../../../../340/MeleeAttacks/Content/NPC/NPC.uasset'
+[2020.04.26-04.26.07:290][597]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.04.26-04.26.07:967][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.26-04.27.16:510][839]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sheathing_Sword.Sheathing_Sword
+[2020.04.26-04.27.16:510][839]LogAnimationCompression: Recompressing (AnimSequence /Game/Sheathing_Sword.Sheathing_Sword) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.26-04.27.18:746][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sheathing_Sword" FILE="../../../../340/MeleeAttacks/Content/Animations/Sheathing_Sword.uasset" SILENT=true
+[2020.04.26-04.27.18:777][ 57]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sheathing_Sword5A64C7464ED9F933A453CFB7C889EFD4.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sheathing_Sword.uasset'
+[2020.04.26-04.27.18:969][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.26-04.27.19:009][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.26-04.27.19:040][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.04.26-04.27.22:744][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Stable_Sword_Outward_Slash" FILE="../../../../340/MeleeAttacks/Content/Animations/Stable_Sword_Outward_Slash.uasset" SILENT=true
+[2020.04.26-04.27.22:770][286]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Stable_Sword_Outward_SlashF32830BB4AB546B8515C8E8DD97675C1.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Stable_Sword_Outward_Slash.uasset'
+[2020.04.26-04.27.22:939][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.04.26-04.27.22:975][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.26-04.27.23:006][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.26-04.27.23:046][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaladinAnimBP" FILE="../../../../340/MeleeAttacks/Content/PaladinAnimBP.uasset" SILENT=true
+[2020.04.26-04.27.23:122][286]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PaladinAnimBP016455A9429E67FD852ECE93F7AC68E9.tmp' to '../../../../340/MeleeAttacks/Content/PaladinAnimBP.uasset'
+[2020.04.26-04.27.32:660][503]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sword_And_Shield_Slash.Sword_And_Shield_Slash
+[2020.04.26-04.27.32:661][503]LogAnimationCompression: Recompressing (AnimSequence /Game/Sword_And_Shield_Slash.Sword_And_Shield_Slash) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.26-04.27.32:746][503]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Withdrawing_Sword.Withdrawing_Sword
+[2020.04.26-04.27.32:746][503]LogAnimationCompression: Recompressing (AnimSequence /Game/Withdrawing_Sword.Withdrawing_Sword) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.26-04.27.37:508][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sword_And_Shield_Idle" FILE="../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Idle.uasset" SILENT=true
+[2020.04.26-04.27.37:538][ 17]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sword_And_Shield_Idle4A9E3CAD49FA35A27B69B0B926964020.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Idle.uasset'
+[2020.04.26-04.27.37:583][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sword_And_Shield_Slash" FILE="../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Slash.uasset" SILENT=true
+[2020.04.26-04.27.37:626][ 17]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sword_And_Shield_Slash7AE968D9432C663D2589EF959A4BAAE2.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Slash.uasset'
+[2020.04.26-04.27.37:665][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sword_And_Shield_Walk" FILE="../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Walk.uasset" SILENT=true
+[2020.04.26-04.27.37:691][ 17]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sword_And_Shield_Walk0FF13F8F4EEB12E0EBA5D3BD985669D5.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Walk.uasset'
+[2020.04.26-04.27.37:726][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Withdrawing_Sword" FILE="../../../../340/MeleeAttacks/Content/Animations/Withdrawing_Sword.uasset" SILENT=true
+[2020.04.26-04.27.37:761][ 17]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Withdrawing_SwordB043C31446554F1795DB79A8C906070B.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Withdrawing_Sword.uasset'
+[2020.04.26-04.27.38:153][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.04.26-04.27.38:180][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.04.26-04.27.38:205][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.26-04.27.38:230][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.26-04.27.38:259][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.26-04.27.38:284][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.26-04.27.38:328][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaladinAnimBP" FILE="../../../../340/MeleeAttacks/Content/PaladinAnimBP.uasset" SILENT=true
+[2020.04.26-04.27.38:386][ 17]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PaladinAnimBPB5296130467AE4B22C1931B45E4F1913.tmp' to '../../../../340/MeleeAttacks/Content/PaladinAnimBP.uasset'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.DamageSponge:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.DamageSponge_C' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.SKEL_DamageSponge_C:BndEvt__HurtBox_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.SKEL_DamageSponge_C:DefaultSceneRoot' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.SKEL_DamageSponge_C:SM_Chair' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.SKEL_DamageSponge_C:HurtBox' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.SKEL_DamageSponge_C:UserConstructionScript' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.SKEL_DamageSponge_C' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.DamageSponge_C:DefaultSceneRoot' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:285][756]LogMetaData: Removing '/Game/NPC/DamageSponge.DamageSponge_C:SM_Chair' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:286][756]LogMetaData: Removing '/Game/NPC/DamageSponge.DamageSponge_C:HurtBox' ref from Metadata '/Game/DamageSponge.PackageMetaData'
+[2020.04.26-04.27.57:350][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/DamageSponge" FILE="../../../../340/MeleeAttacks/Content/NPC/DamageSponge.uasset" SILENT=true
+[2020.04.26-04.27.57:390][756]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/DamageSponge8C888E2E48BB9CA6B7ADF9B9E81E48BC.tmp' to '../../../../340/MeleeAttacks/Content/NPC/DamageSponge.uasset'
+[2020.04.26-04.27.57:399][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DamageSponge" FILE="../../../../340/MeleeAttacks/Content/DamageSponge.uasset" SILENT=true
+[2020.04.26-04.27.57:426][756]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/DamageSponge9001380E4ED2E39B8DA869B732588710.tmp' to '../../../../340/MeleeAttacks/Content/DamageSponge.uasset'
+[2020.04.26-04.28.24:147][113]LogMetaData: Removing '/Game/InfinityBladeWarriors/paladin_prop_j_nordstrom.paladin_prop_j_nordstrom' ref from Metadata '/Game/paladin_prop_j_nordstrom.PackageMetaData'
+[2020.04.26-04.28.24:209][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/paladin_prop_j_nordstrom" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset" SILENT=true
+[2020.04.26-04.28.24:285][113]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/paladin_prop_j_nordstrom927D8A39412642BE19004D8A95527C31.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset'
+[2020.04.26-04.28.24:450][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.26-04.28.24:485][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.26-04.28.24:516][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.26-04.28.24:555][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/paladin_prop_j_nordstrom_PhysicsAsset" FILE="../../../../340/MeleeAttacks/Content/paladin_prop_j_nordstrom_PhysicsAsset.uasset" SILENT=true
+[2020.04.26-04.28.24:592][113]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/paladin_prop_j_nordstrom_PhysicsD85593DF449FDC22406F459D0630108C.tmp' to '../../../../340/MeleeAttacks/Content/paladin_prop_j_nordstrom_PhysicsAsset.uasset'
+[2020.04.26-04.28.24:624][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-04.28.24:693][113]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter0F7574D44B47C5AA295740AA73B61EFF.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-04.28.27:276][290]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/paladin_prop_j_nordstrom_PhysicsE9E6511045A92CF24868F987F7F6DA75.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom_PhysicsAsset.uasset'
+[2020.04.26-04.28.27:438][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.04.26-04.28.27:472][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.04.26-04.28.27:501][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.26-04.28.27:512][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/paladin_prop_j_nordstrom" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset" SILENT=true
+[2020.04.26-04.28.27:691][290]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/paladin_prop_j_nordstromC1FBB21B4659F65D256D2EB4FB63F1D7.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset'
+[2020.04.26-04.28.30:089][492]LogMetaData: Removing '/Game/InfinityBladeWarriors/paladin_prop_j_nordstrom_Skeleton.paladin_prop_j_nordstrom_Skeleton' ref from Metadata '/Game/paladin_prop_j_nordstrom_Skeleton.PackageMetaData'
+[2020.04.26-04.28.30:130][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/paladin_prop_j_nordstrom_SkeletoC5133C5B4A4194816DC75C8594A8FEF3.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom_Skeleton.uasset'
+[2020.04.26-04.28.30:287][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.26-04.28.30:324][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.04.26-04.28.30:354][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.26-04.28.30:401][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaladinAnimBP" FILE="../../../../340/MeleeAttacks/Content/PaladinAnimBP.uasset" SILENT=true
+[2020.04.26-04.28.30:469][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PaladinAnimBP64CD9CD8415C4C833774C48B17488C15.tmp' to '../../../../340/MeleeAttacks/Content/PaladinAnimBP.uasset'
+[2020.04.26-04.28.30:476][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/paladin_prop_j_nordstrom" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset" SILENT=true
+[2020.04.26-04.28.30:530][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/paladin_prop_j_nordstrom71D1A3114B6F49C5CA17C2BA02590F12.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset'
+[2020.04.26-04.28.30:535][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sheathing_Sword" FILE="../../../../340/MeleeAttacks/Content/Animations/Sheathing_Sword.uasset" SILENT=true
+[2020.04.26-04.28.30:561][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sheathing_Sword87AAB83F430E5F295708D881D7D6D683.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sheathing_Sword.uasset'
+[2020.04.26-04.28.30:565][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Stable_Sword_Outward_Slash" FILE="../../../../340/MeleeAttacks/Content/Animations/Stable_Sword_Outward_Slash.uasset" SILENT=true
+[2020.04.26-04.28.30:589][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Stable_Sword_Outward_Slash8AB817554D5EF596B92BA396A4254217.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Stable_Sword_Outward_Slash.uasset'
+[2020.04.26-04.28.30:593][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Withdrawing_Sword" FILE="../../../../340/MeleeAttacks/Content/Animations/Withdrawing_Sword.uasset" SILENT=true
+[2020.04.26-04.28.30:629][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Withdrawing_SwordC6D135724509497E1BD500AEF0FE08D8.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Withdrawing_Sword.uasset'
+[2020.04.26-04.28.30:633][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sword_And_Shield_Walk" FILE="../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Walk.uasset" SILENT=true
+[2020.04.26-04.28.30:663][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sword_And_Shield_Walk25C82FBD42D88A9666F3828F104F2457.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Walk.uasset'
+[2020.04.26-04.28.30:667][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sword_And_Shield_Slash" FILE="../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Slash.uasset" SILENT=true
+[2020.04.26-04.28.30:709][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sword_And_Shield_SlashC156C9D24114D8EF132E4AAEDC635E67.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Slash.uasset'
+[2020.04.26-04.28.30:713][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sword_And_Shield_Idle" FILE="../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Idle.uasset" SILENT=true
+[2020.04.26-04.28.30:741][492]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Sword_And_Shield_IdleDC2B6BAB485C50C7045FCE8E95802515.tmp' to '../../../../340/MeleeAttacks/Content/Animations/Sword_And_Shield_Idle.uasset'
+[2020.04.26-04.28.34:539][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateNode_1.Walk.AnimGraphNode_StateResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP_C' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateEntryNode_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateTransitionNode_5.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateNode_2.SwingSword.AnimGraphNode_StateResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.PaladinStates.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.SKEL_PaladinAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.SKEL_PaladinAnimBP_C:LightSwing' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.SKEL_PaladinAnimBP_C:Speed' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.SKEL_PaladinAnimBP_C:AnimGraph' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.SKEL_PaladinAnimBP_C' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP_C:LightSwing' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP_C:Speed' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:540][708]LogMetaData: Removing '/Game/InfinityBladeWarriors/PaladinAnimBP.PaladinAnimBP_C:AnimGraph' ref from Metadata '/Game/PaladinAnimBP.PackageMetaData'
+[2020.04.26-04.28.34:604][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/PaladinAnimBP" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/PaladinAnimBP.uasset" SILENT=true
+[2020.04.26-04.28.34:676][708]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PaladinAnimBPD11ACA064F15715D680BA5B667CD8BC1.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/PaladinAnimBP.uasset'
+[2020.04.26-04.28.34:837][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.26-04.28.34:873][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.04.26-04.28.34:903][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.26-04.28.34:939][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-04.28.35:003][708]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter888CEB0E401AFDF055A6ED8BB549F039.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-04.28.37:382][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Paladin_normal" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_normal.uasset" SILENT=true
+[2020.04.26-04.28.37:661][893]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Paladin_normal8B1D45134AB94722FEECAEBED18B5DCA.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_normal.uasset'
+[2020.04.26-04.28.37:801][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.26-04.28.37:833][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.04.26-04.28.37:860][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.26-04.28.37:905][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paladin_MAT" FILE="../../../../340/MeleeAttacks/Content/Paladin_MAT.uasset" SILENT=true
+[2020.04.26-04.28.37:939][893]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Paladin_MATBB9576FA43CEDC6A03BB9589BF0F43F9.tmp' to '../../../../340/MeleeAttacks/Content/Paladin_MAT.uasset'
+[2020.04.26-04.28.40:262][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Paladin_MAT" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_MAT.uasset" SILENT=true
+[2020.04.26-04.28.40:294][ 92]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Paladin_MAT1A8D19794DD9BC854473C0B288BAAAD9.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_MAT.uasset'
+[2020.04.26-04.28.40:456][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.04.26-04.28.40:490][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.04.26-04.28.40:520][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.26-04.28.40:531][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/paladin_prop_j_nordstrom" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset" SILENT=true
+[2020.04.26-04.28.40:594][ 92]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/paladin_prop_j_nordstrom4C094834401DC7C4121049A432A1C2D3.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/paladin_prop_j_nordstrom.uasset'
+[2020.04.26-04.28.43:023][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Paladin_diffuse" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_diffuse.uasset" SILENT=true
+[2020.04.26-04.28.43:226][309]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Paladin_diffuse021A8C7B4114D1125F7022ABFC992E3B.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_diffuse.uasset'
+[2020.04.26-04.28.43:368][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.26-04.28.43:399][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.26-04.28.43:424][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.04.26-04.28.43:434][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Paladin_MAT" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_MAT.uasset" SILENT=true
+[2020.04.26-04.28.43:448][309]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Paladin_MAT2DFA66EC41D6272273B938B2F3F334AC.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_MAT.uasset'
+[2020.04.26-04.28.45:759][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Paladin_specular" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_specular.uasset" SILENT=true
+[2020.04.26-04.28.45:862][527]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Paladin_specular9CCFB78140FDA5113EC643894BED73BF.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_specular.uasset'
+[2020.04.26-04.28.46:010][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.26-04.28.46:041][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.26-04.28.46:067][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.26-04.28.46:078][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfinityBladeWarriors/Paladin_MAT" FILE="../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_MAT.uasset" SILENT=true
+[2020.04.26-04.28.46:093][527]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Paladin_MATCC04EC7D4861CDDD339ED8AD97942593.tmp' to '../../../../340/MeleeAttacks/Content/InfinityBladeWarriors/Paladin_MAT.uasset'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SwordHitBox:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SwordHitBox_C' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SKEL_SwordHitBox_C:DefaultSceneRoot' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SKEL_SwordHitBox_C:Hitbox' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SKEL_SwordHitBox_C:UserConstructionScript' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SKEL_SwordHitBox_C' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SwordHitBox_C:DefaultSceneRoot' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:727][831]LogMetaData: Removing '/Game/ThirdPersonBP/SwordHitBox.SwordHitBox_C:Hitbox' ref from Metadata '/Game/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.50:751][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/SwordHitBox" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/SwordHitBox.uasset" SILENT=true
+[2020.04.26-04.28.50:769][831]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/SwordHitBoxBED63B394CBDDAA22BFEBE9E3B5A409D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/SwordHitBox.uasset'
+[2020.04.26-04.28.50:949][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.26-04.28.50:986][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.04.26-04.28.51:016][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.26-04.28.51:061][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-04.28.51:130][831]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter9C0BD0F847895F157EDEACA1425B2C35.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-04.28.51:170][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/DamageSponge" FILE="../../../../340/MeleeAttacks/Content/NPC/DamageSponge.uasset" SILENT=true
+[2020.04.26-04.28.51:204][831]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/DamageSponge25730EEC4CE5E73A3494B2871D7BDEFA.tmp' to '../../../../340/MeleeAttacks/Content/NPC/DamageSponge.uasset'
+[2020.04.26-04.28.54:730][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SwordHitBox_C' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:731][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SwordHitBox_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:731][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SwordHitBox_C:Hitbox' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:731][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SKEL_SwordHitBox_C' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:731][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SKEL_SwordHitBox_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:731][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SKEL_SwordHitBox_C:Hitbox' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:731][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SKEL_SwordHitBox_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:731][ 57]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SwordHitBox.SwordHitBox:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/SwordHitBox.PackageMetaData'
+[2020.04.26-04.28.54:755][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SwordHitBox" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/SwordHitBox.uasset" SILENT=true
+[2020.04.26-04.28.54:772][ 57]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/SwordHitBox2B6457B04CFB2214634919A19D8FBEBE.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/SwordHitBox.uasset'
+[2020.04.26-04.28.54:944][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.26-04.28.54:980][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.04.26-04.28.55:010][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.26-04.28.55:049][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-04.28.55:116][ 57]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterEE5D4B844F07D1C1632464B5E934885D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-04.28.55:154][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/DamageSponge" FILE="../../../../340/MeleeAttacks/Content/NPC/DamageSponge.uasset" SILENT=true
+[2020.04.26-04.28.55:189][ 57]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/DamageSpongeD85B505F4DB24207397F67BCAC991321.tmp' to '../../../../340/MeleeAttacks/Content/NPC/DamageSponge.uasset'
+[2020.04.26-04.29.05:107][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.MiniMap_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.MiniMap:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.MiniMap:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.MiniMap:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.SKEL_MiniMap_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.SKEL_MiniMap_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.SKEL_MiniMap_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.SKEL_MiniMap_C:Image_144' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.SKEL_MiniMap_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:108][597]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap.MiniMap_C:Image_144' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MiniMap.PackageMetaData'
+[2020.04.26-04.29.05:134][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/MiniMap.uasset" SILENT=true
+[2020.04.26-04.29.05:154][597]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/MiniMapD7E433C447333F4B55539CB8BA3B99D9.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/MiniMap.uasset'
+[2020.04.26-04.29.05:162][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MiniMap" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap.uasset" SILENT=true
+[2020.04.26-04.29.05:186][597]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/MiniMap7CFA9FAB4D4C16815CE81190E5BBF1B6.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap.uasset'
+[2020.04.26-21.31.49:702][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MiniMap/Minimap_RenderMat" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/Minimap_RenderMat.uasset" SILENT=true
+[2020.04.26-21.31.49:726][818]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/Minimap_RenderMat7EED0C654CE0F1A3F6F5B697DDA24976.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/Minimap_RenderMat.uasset'
+[2020.04.26-21.31.49:771][818]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/MiniMap_RenderTarget939E7D2D44B595FE37DA7095BE035EE6.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/MiniMap_RenderTarget.uasset'
+[2020.04.26-21.31.49:789][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MiniMap/PlayerIconArrow" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/PlayerIconArrow.uasset" SILENT=true
+[2020.04.26-21.31.49:814][818]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PlayerIconArrow9A7854024E9DA652D043E4A7140B1B1D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/PlayerIconArrow.uasset'
+[2020.04.26-21.31.49:860][818]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/PlayerIconArrow_SpriteFB4E1D214C04FBBEAF341A9B12E9081D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/PlayerIconArrow_Sprite.uasset'
+[2020.04.26-21.31.50:587][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.26-21.31.50:636][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.04.26-21.31.50:693][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.04.26-21.31.50:727][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.26-21.31.50:768][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.26-21.31.50:809][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.26-21.31.50:827][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MiniMap/MiniMap" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/MiniMap.uasset" SILENT=true
+[2020.04.26-21.31.50:867][818]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/MiniMapB556B1454D07C8B8A9290390A9415061.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/MiniMap/MiniMap.uasset'
+[2020.04.26-21.31.50:908][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.31.51:024][818]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterB64EC7FF4EFA0B114BC0E6BD773D5B7B.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.31.53:717][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.04.26-21.31.54:374][880]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMapEC5B49D2404402E019A0279058DEFB4F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.26-21.31.54:452][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.04.26-21.31.54:871][880]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMap_BuiltData2D64BCE04BBB2E6481681C9DF3CCDB01.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.26-21.32.20:600][290]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C4A6CCA6-43F5-13FE-8351-37BDF2102666}
+[2020.04.26-21.32.32:512][363]LogSlate: Window 'NPC' being destroyed
+[2020.04.26-21.32.32:516][363]LogSlate: Window 'NPC' being destroyed
+[2020.04.26-21.32.32:550][363]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.33.32:329][707]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2020.04.26-21.33.32:331][707]LogMetaData: Removing '/Game/Interface/InteractInterface.SKEL_InteractInterface_C' ref from Metadata '/Game/Interface/Interact.PackageMetaData'
+[2020.04.26-21.33.32:331][707]LogMetaData: Removing '/Game/Interface/InteractInterface.InteractInterface_C' ref from Metadata '/Game/Interface/Interact.PackageMetaData'
+[2020.04.26-21.33.32:366][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractInterface" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractInterface.uasset" SILENT=true
+[2020.04.26-21.33.32:386][707]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractInterfaceCD1DA2394FD9BE734D19C789ECD94DA7.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractInterface.uasset'
+[2020.04.26-21.33.32:712][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.04.26-21.33.32:768][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.04.26-21.33.32:815][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.04.26-21.33.33:418][753]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Interface/InteractInterface.InteractInterface
+[2020.04.26-21.33.33:743][753]LogSlate: Took 0.013049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.26-21.33.52:787][ 58]BlueprintLog: New page: Compile InteractInterface
+[2020.04.26-21.33.52:859][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2020.04.26-21.33.53:505][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractInterface" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractInterface.uasset" SILENT=true
+[2020.04.26-21.33.53:549][ 74]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractInterfaceBEA7D7A84BEFD1B90B59E0BFAEC725E5.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractInterface.uasset'
+[2020.04.26-21.33.54:838][108]LogSlate: Window 'InteractInterface' being destroyed
+[2020.04.26-21.33.54:848][108]LogSlate: Window 'InteractInterface' being destroyed
+[2020.04.26-21.33.54:926][108]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.34.21:063][352]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPC/NPC.NPC
+[2020.04.26-21.34.23:768][395]LogSlate: Window 'NPC' being destroyed
+[2020.04.26-21.34.23:828][395]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.34.23:920][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPC/NPC.NPC
+[2020.04.26-21.34.27:739][482]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.26-21.34.32:465][722]BlueprintLog: New page: Compile NPC
+[2020.04.26-21.34.32:830][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.04.26-21.34.33:294][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/NPC" FILE="../../../../340/MeleeAttacks/Content/NPC/NPC.uasset" SILENT=true
+[2020.04.26-21.34.33:344][735]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/NPCC489D43D492408BFCB83C38BBD53CB68.tmp' to '../../../../340/MeleeAttacks/Content/NPC/NPC.uasset'
+[2020.04.26-21.35.14:384][887]LogSlate: Window 'NPC' being destroyed
+[2020.04.26-21.35.14:413][887]LogSlate: Window 'NPC' being destroyed
+[2020.04.26-21.35.14:444][887]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.36.03:063][ 46]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.04.26-21.36.05:866][108]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.04.26-21.36.05:919][108]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.36.05:974][108]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.04.26-21.36.31:664][355]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.26-21.37.15:056][ 33]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.04.26-21.37.15:251][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.04.26-21.37.15:645][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2020.04.26-21.37.15:679][ 45]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonGameModeCF993A644AC5A2895C88D894F477C738.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.04.26-21.37.19:392][137]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.04.26-21.37.19:419][137]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.04.26-21.37.19:443][137]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.37.31:719][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.04.26-21.39.07:712][669]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.26-21.39.07:714][669]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.26-21.39.07:715][669]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.39.09:711][684]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.04.26-21.39.11:853][728]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.39.12:244][728]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.04.26-21.39.13:154][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.39.13:278][749]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter11D35D0949FB58FE89A82EA48D54580C.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.39.44:836][267]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.39.45:081][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.04.26-21.39.45:488][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.39.45:570][276]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterDF4D5800409E54555E97C8A83BC5BE98.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.40.57:285][199]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.40.57:796][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.04.26-21.40.58:335][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.40.58:419][210]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter9C96AC454B5E7455B7FBC8BF0FC08CC6.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.41.54:588][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.04.26-21.41.54:882][503]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMap_Auto1FDF116CA4242353464D45AA09B916AA1.tmp' to '../../../../340/MeleeAttacks/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.04.26-21.41.54:887][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.334
+[2020.04.26-21.41.54:887][503]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.334
+[2020.04.26-21.41.54:889][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/HeadsUpDisplay] ([1] browsable assets)...
+[2020.04.26-21.41.54:890][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/HeadsUpDisplay]
+[2020.04.26-21.41.54:890][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Saved/Autosaves/Game/Interface/HeadsUpDisplay_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.26-21.41.54:904][503]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay_Auto13F353B18452F0BCC83372886F4B3D073.tmp' to '../../../../340/MeleeAttacks/Saved/Autosaves/Game/Interface/HeadsUpDisplay_Auto1.uasset'
+[2020.04.26-21.41.54:905][503]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.04.26-21.42.17:326][972]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.26-21.43.01:266][507]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.26-21.43.01:290][507]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.26-21.43.37:476][656]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.43.37:918][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.04.26-21.43.38:315][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.43.38:397][664]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter40921BE4492002CDAB0B2095420B3174.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.44.10:321][441]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.44.10:592][441]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.04.26-21.44.11:016][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.44.11:081][452]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter3B620F194868403F44CCDC9AA10C716A.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.44.22:740][900]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.44.23:175][900]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2020.04.26-21.44.23:593][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.44.23:694][909]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter7AFE395E4859D97F54579190E3BBBF54.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.45.44:855][485]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.45.45:342][485]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.04.26-21.45.45:796][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.45.45:882][497]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter8336001344657FC02E151A8E80BD5A51.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.46.18:576][427]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.46.18:867][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.26-21.46.19:351][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.46.19:434][440]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter523F19CA470707A0A861D59C3905A031.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.47.14:631][172]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.47.15:089][172]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.04.26-21.47.15:580][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.47.15:679][182]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterB0002DE848A671FC293A2FA0332F90C1.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.47.41:801][494]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.47.42:099][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.04.26-21.47.42:586][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.47.42:662][504]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterF3A63A914A21397D2CB65BA7840633BE.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.48.18:005][796]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.48.18:265][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.04.26-21.48.18:701][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.48.18:769][807]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterDB2B848543B38CC0283A48B77352BCF8.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.49.10:924][960]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.49.11:181][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.04.26-21.49.11:582][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.49.11:656][969]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterBF1CC40340E89EBB5CBD9781C8CB4B8F.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.49.20:145][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.49.20:223][ 61]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterFF92288A41033BD0B781D4ABADFD633A.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.50.21:593][374]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.50.21:866][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.26-21.50.22:246][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.50.22:333][383]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacterFA7BEA7A4F24578C5139A39DB2F4485B.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.50.28:746][478]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.26-21.50.33:888][846]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-21.50.34:298][846]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.04.26-21.50.34:785][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.50.34:881][858]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter1B67B1334DC3E76069FF679F3A777A15.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.50.47:796][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-21.50.47:869][ 15]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter8C5C2FAC4AAE684FFBBA86B014CC4D1D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-21.51.21:713][198]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.26-21.51.21:733][198]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.26-21.51.21:765][198]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.51.23:542][241]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.04.26-21.51.23:861][241]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMapBCAC45DB4274BD047AAEBA95036B2F08.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.26-21.51.23:911][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.04.26-21.51.24:167][241]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMap_BuiltDataA45B164D499BCD8690BA1F8134F49A7D.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.26-21.51.31:096][459]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/HeadsUpDisplay.HeadsUpDisplay
+[2020.04.26-21.51.55:030][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-21.51.55:045][697]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayFD6CE9B14057AB2EB912A18C5F80311B.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-21.52.19:623][441]LogSlate: Took 0.009073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.26-21.52.42:214][339]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-21.52.42:372][339]LogUObjectHash: Compacting FUObjectHashTables data took   8.95ms
+[2020.04.26-21.52.42:904][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-21.52.42:951][354]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay92CCA25B4C96C4859D594C811BD67BB4.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-21.53.06:535][ 69]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-21.53.06:587][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.04.26-21.53.07:123][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-21.53.07:150][ 83]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayE7AEEF8646DB705C75E3F596773855E6.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-21.53.25:169][186]LogSlate: Window 'HeadsUpDisplay' being destroyed
+[2020.04.26-21.53.25:195][186]LogSlate: Window 'HeadsUpDisplay' being destroyed
+[2020.04.26-21.53.25:200][186]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.53.25:242][186]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.53.34:518][735]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/InteractMessage.InteractMessage
+[2020.04.26-21.55.45:173][ 74]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.55.45:425][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.26-21.55.45:883][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.55.45:899][ 89]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessage8996F9F6472201E390FC23AA2EE92B0E.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.56.15:069][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.56.15:095][357]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessageB5B3C2C14FE79E78800C26A7B82574D0.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.56.31:976][800]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.26-21.56.49:079][ 95]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.26-21.56.50:165][125]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.56.50:226][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.26-21.56.50:812][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.56.50:831][139]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessage27FECE064059D7BB13ADC9B6082D898C.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.57.08:062][457]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.57.08:106][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.04.26-21.57.08:824][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.57.08:849][474]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessage08CE400E43048C0232C5B5BF8624B8BB.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.57.26:029][ 71]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.57.26:070][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.04.26-21.57.26:744][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.57.26:770][ 89]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessage5E64C4BF4876B3CDCE9F84BF4D469C4B.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.57.29:782][166]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.57.29:821][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.26-21.57.30:409][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.57.30:433][181]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessageD1C1D8B44235B1B891D6E4813B4C2168.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.57.46:420][469]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.57.46:462][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.26-21.57.46:964][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.57.46:984][484]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessageFA673DE94CACCD9975E068AE467A87B2.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.58.37:467][542]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.58.37:503][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.04.26-21.58.38:350][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.58.38:370][566]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessageA56F178248443CCB8D3BD5B02D301368.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.58.44:650][786]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.58.44:688][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.04.26-21.58.45:263][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.58.45:290][802]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessage8F7B693C418EB3C1C305A49905DB512E.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-21.58.57:419][945]LogSlate: Window 'InteractMessage' being destroyed
+[2020.04.26-21.58.57:435][945]LogSlate: Window 'InteractMessage' being destroyed
+[2020.04.26-21.58.57:441][945]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.58.57:478][945]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-21.58.58:840][987]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/HeadsUpDisplay.HeadsUpDisplay
+[2020.04.26-21.59.31:033][634]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-21.59.31:040][634]LogBlueprint: Error: [Compiler HeadsUpDisplay] Spawn node  Create Widget  must have a class specified.
+[2020.04.26-21.59.31:075][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.04.26-21.59.31:573][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-21.59.31:603][649]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay37F6FA254B27B52F58F9ADA604E97F1C.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-21.59.33:979][726]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/InteractMessage.InteractMessage
+[2020.04.26-21.59.55:439][390]BlueprintLog: New page: Compile InteractMessage
+[2020.04.26-21.59.55:502][390]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.04.26-21.59.56:063][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/InteractMessage" FILE="../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset" SILENT=true
+[2020.04.26-21.59.56:099][405]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/InteractMessage4F917BFD4C395DBD6E742D93CBFBA1E9.tmp' to '../../../../340/MeleeAttacks/Content/Interface/InteractMessage.uasset'
+[2020.04.26-22.00.08:129][546]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.26-22.00.23:294][171]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.00.23:339][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.04.26-22.00.23:875][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.00.23:901][186]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayAB169F9C403CD095D067ED94A1600AA3.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.00.49:544][ 36]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.00.49:639][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2020.04.26-22.00.50:046][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.00.50:092][ 47]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay80140B9D4C21171E2677D28AF02D33E0.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.01.25:767][626]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.01.25:810][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.04.26-22.01.26:342][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.01.26:364][642]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay9E5C919E4BAC7CE206A556BD31AF3477.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.01.57:714][697]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.01.57:762][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.26-22.01.58:713][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.01.58:742][724]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayA112D4B64063F2BE70988F9953A4C585.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.02.25:659][576]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.02.25:705][576]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.04.26-22.02.26:271][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.02.26:309][591]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay263138484C1800A7799E98B69E6F7281.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.02.39:556][117]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.02.39:600][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.26-22.02.40:140][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.02.40:166][132]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayBFB179B04498352992D041B7C679D72D.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.03.15:897][259]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.03.15:960][259]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.04.26-22.03.16:438][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.03.16:481][272]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay84E1688D4DF9C39BDD5D18A4980ED4B0.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.03.47:949][302]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.03.48:000][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.26-22.03.48:509][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.03.48:544][316]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay3EDEF77F4DDDB9BCEB845C975954F7FB.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.04.00:887][781]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.04.00:961][781]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.04.26-22.04.01:677][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.04.01:730][800]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayF3E6BE34483AD29520F0EFAFC43E8AD2.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.04.17:814][ 70]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.04.17:859][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.26-22.04.18:336][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.04.18:369][ 83]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayC99E48CC44140A8E6AD4529A414945C0.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.05.14:262][659]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.05.14:308][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.26-22.05.14:761][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.05.14:806][673]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayA20CE7AA4D8808A33CD54B9D7C99C6EC.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.05.46:316][997]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.05.46:395][997]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.04.26-22.05.46:853][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.05.46:908][ 10]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplayABEC2B064A664A735B69DEBB7ADBC657.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.06.04:587][465]BlueprintLog: New page: Compile HeadsUpDisplay
+[2020.04.26-22.06.04:647][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.04.26-22.06.05:149][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HeadsUpDisplay" FILE="../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset" SILENT=true
+[2020.04.26-22.06.05:193][479]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/HeadsUpDisplay5F7EADCB4ADA1EB72A050E8CD1D213F1.tmp' to '../../../../340/MeleeAttacks/Content/Interface/HeadsUpDisplay.uasset'
+[2020.04.26-22.06.10:408][575]LogSlate: Window 'InteractMessage' being destroyed
+[2020.04.26-22.06.10:416][575]LogSlate: Window 'InteractMessage' being destroyed
+[2020.04.26-22.06.10:421][575]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.06.10:447][575]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.06.10:512][575]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.06.10:515][575]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.06.14:686][706]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.04.26-22.06.57:873][723]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-22.06.58:093][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.26-22.06.58:490][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-22.06.58:571][733]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter436CAC8E4B48AB62E2906C8945EBA496.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-22.07.13:680][927]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.26-22.07.13:887][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.26-22.07.14:344][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.04.26-22.07.14:413][938]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonCharacter56DF110349555E3DDFC95AB1EF7F35DC.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.26-22.07.39:561][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.04.26-22.07.39:928][ 28]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMap_Auto2258FD9E54A14AE4BCFA6BBBA56516B02.tmp' to '../../../../340/MeleeAttacks/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.04.26-22.07.39:932][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.421
+[2020.04.26-22.07.39:932][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2020.04.26-22.07.52:765][121]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.26-22.07.52:786][121]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.04.26-22.07.52:787][121]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.54:773][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.26-22.07.54:984][185]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMapDAC2C8A8474BB893E31638A6288348CF.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.26-22.07.55:025][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.04.26-22.07.55:271][185]LogSavePackage: Moving '../../../../340/MeleeAttacks/Saved/ThirdPersonExampleMap_BuiltDataAE3C9871491A6D44E98D76801615D450.tmp' to '../../../../340/MeleeAttacks/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.26-22.07.55:835][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.04.26-22.07.55:920][205]LogSlate: Window 'MeleeAttacks - Unreal Editor' being destroyed
+[2020.04.26-22.07.55:921][205]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.26-22.07.56:075][206]Cmd: QUIT_EDITOR
+[2020.04.26-22.07.56:117][206]LogExit: Preparing to exit.
+[2020.04.26-22.07.56:254][206]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:257][206]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:259][206]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:263][206]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:266][206]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:268][206]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:272][206]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:274][206]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:305][206]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.26-22.07.56:323][206]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-22.07.56:323][206]LogExit: Editor shut down
+[2020.04.26-22.07.56:323][206]LogExit: Transaction tracking system shut down
+[2020.04.26-22.07.56:696][206]LogExit: Object subsystem successfully closed.
+[2020.04.26-22.07.56:720][206]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module SequencerWidgets (676)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (674)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module BlueprintGraph (672)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module WorldBrowser (668)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.04.26-22.07.56:733][206]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.04.26-22.07.56:734][206]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.04.26-22.07.56:735][206]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.04.26-22.07.57:244][206]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.04.26-22.07.57:245][206]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.04.26-22.07.57:245][206]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.04.26-22.07.57:245][206]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.04.26-22.07.57:245][206]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.04.26-22.07.57:245][206]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.04.26-22.07.57:245][206]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.04.26-22.07.57:245][206]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.04.26-22.07.57:246][206]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.04.26-22.07.57:246][206]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.04.26-22.07.57:246][206]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.04.26-22.07.57:246][206]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.04.26-22.07.57:246][206]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.04.26-22.07.57:246][206]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.04.26-22.07.57:246][206]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.04.26-22.07.57:291][206]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.04.26-22.07.57:296][206]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.04.26-22.07.57:297][206]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.04.26-22.07.57:297][206]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.04.26-22.07.57:297][206]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.04.26-22.07.57:298][206]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.04.26-22.07.57:298][206]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.04.26-22.07.57:298][206]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.04.26-22.07.57:298][206]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.04.26-22.07.57:299][206]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.04.26-22.07.57:302][206]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.04.26-22.07.57:374][206]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.04.26-22.07.57:375][206]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.04.26-22.07.57:376][206]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.04.26-22.07.57:376][206]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.04.26-22.07.57:376][206]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.04.26-22.07.57:376][206]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.04.26-22.07.57:376][206]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.04.26-22.07.57:376][206]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.04.26-22.07.57:477][206]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.04.26-22.07.57:578][206]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.04.26-22.07.57:578][206]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.04.26-22.07.57:578][206]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.04.26-22.07.57:578][206]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.04.26-22.07.57:578][206]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.04.26-22.07.57:579][206]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.26-22.07.57:579][206]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.04.26-22.07.57:579][206]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.04.26-22.07.57:579][206]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.04.26-22.07.57:579][206]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.04.26-22.07.57:579][206]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.04.26-22.07.57:580][206]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.04.26-22.07.57:580][206]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.04.26-22.07.57:580][206]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.04.26-22.07.57:583][206]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.04.26-22.07.57:583][206]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.04.26-22.07.57:584][206]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.04.26-22.07.57:584][206]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.04.26-22.07.57:585][206]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.04.26-22.07.57:590][206]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.04.26-22.07.57:590][206]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.04.26-22.07.57:591][206]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.26-22.07.57:591][206]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.04.26-22.07.57:591][206]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.04.26-22.07.57:597][206]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.04.26-22.07.57:597][206]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.04.26-22.07.57:597][206]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.04.26-22.07.57:597][206]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.04.26-22.07.57:598][206]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.04.26-22.07.57:599][206]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.04.26-22.07.57:599][206]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.04.26-22.07.57:599][206]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.04.26-22.07.57:599][206]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.04.26-22.07.57:599][206]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.04.26-22.07.57:599][206]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.04.26-22.07.57:599][206]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.04.26-22.07.57:602][206]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.04.26-22.07.57:603][206]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.04.26-22.07.57:603][206]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.04.26-22.07.57:603][206]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.04.26-22.07.57:639][206]LogDerivedDataCache: Shutdown
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.04.26-22.07.57:639][206]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.04.26-22.07.57:640][206]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.04.26-22.07.57:640][206]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.04.26-22.07.57:640][206]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.04.26-22.07.57:640][206]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.04.26-22.07.57:640][206]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.04.26-22.07.57:640][206]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.04.26-22.07.57:640][206]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.26-22.07.57:641][206]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.04.26-22.07.57:641][206]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.04.26-22.07.57:642][206]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.04.26-22.07.57:642][206]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.26-22.07.57:642][206]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.04.26-22.07.57:643][206]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.26-22.07.57:643][206]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.26-22.07.57:645][206]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.04.26-22.07.57:645][206]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.04.26-22.07.57:658][206]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.04.26-22.07.57:659][206]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.04.26-22.07.57:659][206]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.04.26-22.07.57:660][206]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.04.26-22.07.57:660][206]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.04.26-22.07.57:687][206]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.04.26-22.07.57:687][206]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.26-22.07.57:687][206]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84E13D1A-4CC5-0421-AC87-CF8552A623C3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=20e6631449079e3778e4499abec8a725%7C2c53235631b243b980ace4ed9c946480%7C951dd054-ac37-47d1-ad86-b4ae341b0c02&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.26-22.07.57:705][206]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.04.26-22.07.57:706][206]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.04.26-22.07.57:708][206]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.04.26-22.07.57:708][206]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.04.26-22.07.57:708][206]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.04.26-22.07.57:709][206]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.04.26-22.07.57:709][206]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.04.26-22.07.57:709][206]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.26-22.07.57:709][206]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.26-22.07.57:709][206]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.26-22.07.57:711][206]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.26-22.07.57:711][206]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.26-22.07.57:711][206]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.26-22.07.57:711][206]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.26-22.07.57:711][206]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.26-22.07.57:712][206]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.26-22.07.57:717][206]LogD3D11RHI: Shutdown
+[2020.04.26-22.07.57:717][206]LogD3D11RHI: CleanupD3DDevice
+[2020.04.26-22.07.57:723][206]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.26-22.07.57:723][206]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.26-22.07.57:723][206]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.26-22.07.57:936][206]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.26-22.07.57:939][206]LogExit: Exiting.
+[2020.04.26-22.07.57:946][206]Log file closed, 04/26/20 18:07:57
